@@ -1,0 +1,6 @@
+[submodule "AspNet.Identity.EntityFramework.Multitenant"]
+	path = AspNet.Identity.EntityFramework.Multitenant
+	url = https://github.com/kether667/AspNet.Identity.EntityFramework.Multitenant.git
+[submodule "saaskit"]
+	path = saaskit
+	url = https://github.com/kether667/saaskit.git
